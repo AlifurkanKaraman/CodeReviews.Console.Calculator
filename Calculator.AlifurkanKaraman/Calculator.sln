@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Karamanaf.Calculator", "Karamanaf.Calculator\Karamanaf.Calculator.csproj", "{672A859E-1DBC-40C5-9C16-19B1006B227F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Karamanaf.Calculator\Calculator.csproj", "{672A859E-1DBC-40C5-9C16-19B1006B227F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibrary", "CalculatorLibrary\CalculatorLibrary.csproj", "{77C233A3-BE31-4D7F-B8CD-8AB7F9B62715}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorLibrary", "CalculatorLibrary\CalculatorLibrary.csproj", "{77C233A3-BE31-4D7F-B8CD-8AB7F9B62715}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
